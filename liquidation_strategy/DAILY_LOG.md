@@ -1,0 +1,1 @@
+# Results: 0 signals, 0 cascades, 0.00% avg pnl, 0 max concurrency.
